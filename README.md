@@ -4,7 +4,7 @@
 An awesome company asked me to solve an interesting problem, so I thought I might use this in the future as manipulating dates seem to be cropping up im my line of work
 
 
-USAGE: http://intelij.demo.co.uk
+USAGE: http://intelij.co.uk
 
 
 ###Simple Date Manipulation Functions
